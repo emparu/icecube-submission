@@ -11,14 +11,14 @@ The 3 outputs are (x,y,z) coordinates, the model was trained using the Mean Angu
 
 createEnsemble.ipynb is the notebook used to train the ensemble
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emanuelruzak/ensemble2) -->
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emanuelruzak/ensemble2)
 
-This is the submission (submission.ipynb)
+submission.ipynb is the submission
 
-
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emanuelruzak/submissionfinal2) -->
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emanuelruzak/submissionfinal2)
 
 lstmviewicecube.ipynb is a notebook to visualize the outputs of the LSTM models
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/emanuelruzak/lstmviewicecube) -->
+
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/emanuelruzak/lstmviewicecube)
 
 
