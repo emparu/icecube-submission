@@ -5,6 +5,8 @@ Submission for the Kaggle IceCube - Neutrinos in Deep Ice competition
 I used the Graphnet baseline submission, and Robin Smits' ensemble of 3 LSTM
 I created an ensemble model. It was trained with the outputs of the 4 models from batches 520-525, and the number of pulses in each event
 
+![Alt text](diagram1.png?raw=true "Title")
+
 The 3 outputs are (x,y,z) coordinates, the model was trained using the Mean Angular Error loss.
 
 createEnsemble.ipynb is the notebook used to train the ensemble
